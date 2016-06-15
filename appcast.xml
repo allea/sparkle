@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>WeBack Changelog</title>
+      <link>http://www.nokisoft.com/weback/download/appcast.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>      
+         <item>
+            <title>Version 1.1</title>
+			<description> 
+			</description>
+            <pubDate>Wed, 15 Jun 2016 19:20:11 +0000</pubDate>
+            <sparkle:releaseNotesLink>http://www.nokisoft.com/weback/download/notes.html</sparkle:releaseNotesLink>
+			<enclosure url="http://www.nokisoft.com/weback/download/WeBack.zip" 
+			sparkle:version="131" 
+            sparkle:shortVersionString="1.1 (build 132)" 
+            length="1600000" 
+            type="application/octet-stream" 
+            />
+         </item>
+   </channel>
+</rss>
